@@ -1,0 +1,10 @@
+.pifagor-table {
+    border-collapse: collapse;
+}
+
+.pifagor-table td,
+.pifagor-table th {
+    border: 1px solid #333;
+    padding: 4px 8px;
+    text-align: center;
+}
